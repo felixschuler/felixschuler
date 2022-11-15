@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @felixschuler
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on anything cool :)
+- 📫 How to reach me: me@felixschuler.at
